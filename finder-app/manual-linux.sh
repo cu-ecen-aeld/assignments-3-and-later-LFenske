@@ -2,6 +2,8 @@
 # Script outline to install and build kernel.
 # Author: Siddhant Jajoo.
 
+# modified for ECEA 5305 assignment 3, part 2 by Larry
+
 set -e
 set -u
 
