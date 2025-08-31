@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Search a directory recursively for a given string.
 # Silently skip files and directories that we can't read.
